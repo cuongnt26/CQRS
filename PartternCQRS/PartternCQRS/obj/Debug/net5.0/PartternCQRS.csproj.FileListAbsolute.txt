@@ -1,0 +1,15 @@
+D:\sample\PartechCQRS\PartechCQRS\bin\Debug\net5.0\PartternCQRS.exe
+D:\sample\PartechCQRS\PartechCQRS\bin\Debug\net5.0\PartternCQRS.deps.json
+D:\sample\PartechCQRS\PartechCQRS\bin\Debug\net5.0\PartternCQRS.runtimeconfig.json
+D:\sample\PartechCQRS\PartechCQRS\bin\Debug\net5.0\PartternCQRS.runtimeconfig.dev.json
+D:\sample\PartechCQRS\PartechCQRS\bin\Debug\net5.0\PartternCQRS.dll
+D:\sample\PartechCQRS\PartechCQRS\bin\Debug\net5.0\ref\PartternCQRS.dll
+D:\sample\PartechCQRS\PartechCQRS\bin\Debug\net5.0\PartternCQRS.pdb
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\PartternCQRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\PartternCQRS.AssemblyInfoInputs.cache
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\PartternCQRS.AssemblyInfo.cs
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\PartternCQRS.csproj.CoreCompileInputs.cache
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\PartternCQRS.dll
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\ref\PartternCQRS.dll
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\PartternCQRS.pdb
+D:\sample\PartechCQRS\PartechCQRS\obj\Debug\net5.0\PartternCQRS.genruntimeconfig.cache
